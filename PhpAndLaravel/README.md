@@ -1,6 +1,6 @@
 ### Laravel Commands Cheat Sheet
 
-A continuación, se presentan los comandos organizados por prioridad y en lenguaje de readme para que los coloques en tu repositorio:
+A continuación, se presentan los comandos organizados por prioridad:
 
 #### **1. Instalación y Configuración del Proyecto**
 
