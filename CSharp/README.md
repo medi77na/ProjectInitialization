@@ -3,10 +3,6 @@
 
 This document will serve as a guide to start a C# and .NET project using [Visual Studio Code](https://code.visualstudio.com) as IDE.
 
-# Create a project in C# and .NET
-
-This document will serve as a guide to start a C# and .NET project using [Visual Studio Code](https://code.visualstudio.com) as IDE.
-
 ## Installation
 
 To begin we must have downloaded the .Net sdk, we will find it in the following address:
